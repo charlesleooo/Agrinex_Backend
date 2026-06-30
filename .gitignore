@@ -1,5 +1,19 @@
+# Build folders
 bin/
 obj/
+
+# Visual Studio
 .vs/
 *.user
 *.suo
+
+# App settings (IMPORTANT)
+appsettings.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
